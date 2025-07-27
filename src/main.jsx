@@ -13,7 +13,7 @@ import Details from './components/Pages/Details/Details.jsx';
 import Footer from './components/Footer/Footer.jsx';
 import Login from './components/Pages/Login/Login.jsx';
 
-import Register from './components/Pages/Register/register.jsx';
+import Register from './components/Pages/Register/Register.jsx';
 
 
 
